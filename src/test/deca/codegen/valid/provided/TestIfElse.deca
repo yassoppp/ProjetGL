@@ -1,0 +1,13 @@
+// Description
+//   Programme qui test If Else
+// Resultat=
+//       
+{
+    boolean x=true;
+    if (x){
+        print("OK");
+    }
+    else{
+        print("NO");
+    }
+}

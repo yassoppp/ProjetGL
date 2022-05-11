@@ -1,0 +1,24 @@
+// test the square root method in the Math Library
+// sqrt(50)
+// output value : 7.07107
+// expected value : 7.07106781187
+// Result : OK
+
+
+{
+    float error = 0.000001;
+    float start = 50;
+    float newstart = 0;
+    float difference = 100.3;
+    while (difference > error){
+        newstart = start - (start*start - 50)/(2*start);
+        difference = newstart - start;
+        if (difference < 0){
+            difference = -difference;
+        }
+        start = newstart;
+    }
+
+    printx(start);
+
+}

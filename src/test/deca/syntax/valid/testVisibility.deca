@@ -1,0 +1,7 @@
+// Declaring a class using Visibility key words
+// result : OK
+class A {
+    protected int x;
+    protected float y;
+    boolean b = true;
+}

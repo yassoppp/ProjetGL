@@ -1,0 +1,15 @@
+// Description : Teste ifThenElse
+{
+    int x = 2;
+    int y = 10;
+    if (x < 3 && y > 5) {
+        x = x - 1;
+        print(x);
+    } else {
+        x = x + 20;
+        printx(2);
+    }
+    if (y < 11) {
+    	print(y);
+    }
+}

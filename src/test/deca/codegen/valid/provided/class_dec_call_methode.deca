@@ -1,0 +1,13 @@
+//  Description 
+//    test pour le langage objet = implementation et appel method 
+//
+//
+class Point {
+    void comment() {
+        print("Le nombre est : ");
+        this.nmbr();
+    }
+    void nmbr() {
+	    print(1);
+    }
+}

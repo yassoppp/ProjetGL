@@ -1,0 +1,10 @@
+// test The cos method
+// Calculate cos(10001)
+#include "Math.decah"
+{
+    float f = 10001;
+    float c;
+    Math m = new Math();
+    c = m.cos(f);
+    printlnx(c);
+}

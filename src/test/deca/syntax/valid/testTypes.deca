@@ -1,0 +1,9 @@
+// Description:
+//   test types (String)
+//
+// Resultats:
+//    valid for syntax , invalid for context
+//
+{
+ String s = "unsupported";
+}

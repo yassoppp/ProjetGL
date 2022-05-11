@@ -1,0 +1,4 @@
+// Description : Utilisation de new sur un type autre que classe
+{
+    int a = new int();
+}

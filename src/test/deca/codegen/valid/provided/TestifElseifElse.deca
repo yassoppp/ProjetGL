@@ -1,0 +1,14 @@
+// Description
+//   Programme qui test if elseif else
+// Resultat=
+//       
+{
+int x = 0;
+if(x == 1){
+println(10);
+} else if (x <0) {
+x = 6;
+}else {
+print("Hey");
+}
+}

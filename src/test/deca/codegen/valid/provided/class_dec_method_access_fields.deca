@@ -1,0 +1,12 @@
+//Description=
+//   Test sur le langage objet  = Implementer une méthode 
+//  Résultat
+//
+class Point {
+    int x;
+    int y;
+    void Translate () {
+        x = x + 5;
+	    y = y + 5;
+    }
+}

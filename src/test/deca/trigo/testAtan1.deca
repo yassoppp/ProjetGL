@@ -1,0 +1,9 @@
+// test the arctan method
+//
+#include "Math.decah"
+{
+    float f;
+    Math m = new Math();
+    f = m.atan(1.6);
+    printx(f);
+}

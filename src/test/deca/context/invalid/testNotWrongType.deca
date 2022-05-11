@@ -1,0 +1,7 @@
+// Description : opérateur ! avec mauvais types
+{
+    int x;
+    if (!x) {
+        x = x - 1;
+    }
+}

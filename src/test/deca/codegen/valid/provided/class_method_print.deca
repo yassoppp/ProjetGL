@@ -1,0 +1,15 @@
+// Description 
+//   Test pour le langage objet  =body  de methode print 
+// Resultat
+//      
+
+class Bodyprint {
+    void msg () {
+        print("OK");
+    }
+}
+
+{
+	Bodyprint printer = new Bodyprint();
+	printer.msg();
+}

@@ -1,0 +1,11 @@
+//Description:
+//  Programme qui releve l'erreur division par zero flottant 
+//  Résultat
+//
+{
+  float x = 11.23f;
+  float y = 0.0f;
+  
+  println(11.23f / 0.0f);
+  println(x / y);
+}

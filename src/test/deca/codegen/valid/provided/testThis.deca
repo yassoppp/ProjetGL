@@ -1,0 +1,15 @@
+// test this
+// Result : OK
+class A{
+    int x;
+
+    void increment(){
+        this.x = this.x + 1;
+    }
+}
+
+{
+    A a = new A();
+    a.increment();
+    print(a.x); 
+}

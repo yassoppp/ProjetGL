@@ -1,0 +1,15 @@
+// Description
+//   Programme qui test not  
+// Resultat=
+//       
+{
+    boolean x =true;
+    x=!x;
+    x=!!!x;
+    if (x){
+        print("OK");
+    }
+    else{
+        print("NO");
+    }
+}

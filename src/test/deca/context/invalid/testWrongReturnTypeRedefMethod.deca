@@ -1,0 +1,21 @@
+// Description : Le type de retour de la redéfintion de la méthode n'est pas
+//              un sous-type du type de retour de la méthode de la super classe
+class A {
+    int fieldA;
+}
+class B {
+    int fieldB;
+    A addition(int number) {
+        A a = new A();
+        a.fieldA = a.fieldA + number;
+        return a;
+    }
+}
+class C extends B {
+    int fieldC;
+    B addition(int number) {
+        B b = new B();
+        b.fieldB = fieldC + number;
+        return b;
+    }
+}

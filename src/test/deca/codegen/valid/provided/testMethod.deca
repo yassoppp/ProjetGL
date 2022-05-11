@@ -1,0 +1,23 @@
+// test a class with methods [with a return statement]
+// Result : OK
+class A{
+    int x;
+
+    void increment(){
+        x = x + 1;
+    }
+
+    int getX(){
+        return x;
+    }
+
+}
+
+{
+    int y;
+    A a = new A();
+    a.increment();
+    a.increment();
+    y = a.getX();
+    println(y);
+}

@@ -1,0 +1,13 @@
+// test multiple ifs
+
+{
+    int x = 0;
+    int i = 1;
+    if (i < 3){
+        print(x);
+    } 
+    if(x >= 1){
+        print(i);
+    }
+
+}

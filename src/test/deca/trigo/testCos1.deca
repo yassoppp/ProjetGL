@@ -1,0 +1,10 @@
+// test The cos method
+// Calculate cos(2.56)
+#include "Math.decah"
+{
+    float f = 2.56;
+    float c;
+    Math m = new Math();
+    c = sin(f);
+    printlnx(c);
+}

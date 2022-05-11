@@ -1,0 +1,10 @@
+//
+//
+{
+    int x = 2;
+    int y = 4;
+    int z = 5*x*2;
+    int w = z*x*y;
+    float f = w/160.0;
+    print(f);
+}

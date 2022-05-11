@@ -1,0 +1,10 @@
+// Description : Double définition d'une méthode
+class A {
+    int a;
+    void increment() {
+        a = a + 1;
+    }
+    void increment(int number) {
+        a = a + number;
+    }
+}

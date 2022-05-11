@@ -1,0 +1,5 @@
+// print invalid
+// Result : Error
+{
+    println(print("Hi"));
+}

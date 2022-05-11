@@ -1,0 +1,7 @@
+// Decription : types incompatibles pour l'opérateur <
+{
+    int x;
+    if (x < true) {
+        x = 2;
+    }
+}

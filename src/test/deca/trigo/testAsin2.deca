@@ -1,0 +1,9 @@
+// test the arcsin method
+//
+#include "Math.decah"
+{
+    float f;
+    Math m = new Math();
+    f = m.asin(0.49);
+    printx(f);
+}

@@ -1,0 +1,7 @@
+// use the Main inside a class
+class A{
+    int x;
+    {
+        A a = new A(); 
+    }
+}

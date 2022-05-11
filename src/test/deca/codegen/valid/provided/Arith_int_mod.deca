@@ -1,0 +1,17 @@
+//Description
+//   Programme qui teste modulo sur les entiers
+//Résultat 
+//   
+//
+//
+//
+//
+{
+    println(50%10);
+    println(47%5);
+    //println(0%10);
+    //println(0%0);
+    //println(5%(-10));
+    //println((-6)%(-3));
+    //println(22%4%3);
+}

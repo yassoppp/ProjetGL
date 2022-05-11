@@ -1,0 +1,11 @@
+// Description : Accès à un champ protégé depuis une classe qui n'est pas une
+//              sous-classe de la classe de l'attribut.
+class C {
+    int get() {
+        A x = new A();
+        return x.a;
+    }
+}
+class A extends C {
+    protected int a;
+}

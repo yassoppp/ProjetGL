@@ -1,0 +1,14 @@
+// Description:
+//     Programe qui utilise while pour calculer une partie entiere d'un float 
+//         on prend comme argument x=5.64795211
+//
+//     Resultat:5
+{
+    float x=5.64795211;
+    int n=0;
+    while(n <=x){
+        n=n+1;
+    }
+    n=n-1;  
+    print("la partie entiere est:",n);
+}

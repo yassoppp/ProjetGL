@@ -1,0 +1,5 @@
+// Desciption : Selection sur une variable qui n'est pas une instance de classe
+{
+    int a;
+    a.x = 2;
+}

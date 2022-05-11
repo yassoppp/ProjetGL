@@ -1,0 +1,9 @@
+// test Declaring a class with fields
+// result : OK
+
+class A {
+    int x;
+    int y;
+    float a;
+    boolean b = true;
+}

@@ -1,0 +1,17 @@
+{
+    int a = 2;
+    int b = 19;
+    float c = 5.6;
+    float d = 8.3f;
+
+    int result1 = a + b;
+    int result2 = a - b;
+    int result3 = a * b;
+    int result4 = b / a;
+    int result5 = b % a;
+
+    float result6 = c + d;
+    float result7 = c - d;
+    float result8 = c * d;
+    float result9 = d / c;
+}

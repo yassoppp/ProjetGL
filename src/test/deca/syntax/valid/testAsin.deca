@@ -1,0 +1,22 @@
+//
+class A{
+    float PI = 3.17882f;
+    
+    float asin(float x){
+        float s = 0;
+        int i = 0;
+        if(abs(x) > 1){
+            println("x n'appartient pas au domaine de définition");
+        }
+        else if (x<0.5) {
+            while (i < 34) {
+                s = s + (fact(2 * i) / (pow(fact(i), 2)*pow(4, i) * (2 * i + 1)))*pow(x, 2 * i + 1);
+                i = i + 1;
+            }
+        }
+        else if (x>0.5){
+            return PI/2 - 2*asin(sqrt((1-x)/2));
+        }
+        return s;
+    }
+}

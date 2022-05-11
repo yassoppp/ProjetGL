@@ -1,0 +1,12 @@
+class A {
+    float a;
+    int test(int b, boolean c) {
+        float number;
+        number = b*2 + 5;
+        if (c) {
+            a = number;
+        } else {
+            a = number + 1;
+        }
+    }
+}

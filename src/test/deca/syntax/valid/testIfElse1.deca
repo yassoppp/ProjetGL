@@ -1,0 +1,12 @@
+// test if else
+
+{
+ int i = 45;
+ if ( i < 4){
+   print("hi");
+ } else if (i == 3){
+  print("hello");
+ } else{
+ print("howdy");
+ }
+}

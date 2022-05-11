@@ -1,0 +1,10 @@
+// test The sin method in the Math Library
+// Calculate sin(0.67)
+#include "Math.decah"
+{
+    float f = 0.67;
+    float c;
+    Math m = new Math();
+    c = m.sin(f);
+    printlnx(c);
+}

@@ -1,0 +1,11 @@
+// Description : Utilisaton d'un nom d'attribut déjà défini dans la super classe
+// 		en tant que méthode
+class A {
+	int a;
+	void increment() {
+		a = a + 1;
+	}
+}
+class B extends A {
+	int increment;
+}

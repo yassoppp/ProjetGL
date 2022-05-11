@@ -1,0 +1,13 @@
+//Description
+//   Programme qui utilise les operations sur les bools 
+//Résultats
+//
+//
+//
+{
+    boolean a=true,b=false,c,d;
+    a=a || b;
+    b=b && a;
+    c=(1>0) && a && (5 == 5.0f ) && (1 !=0);
+    d=!c;
+}

@@ -1,0 +1,5 @@
+// print without quotes.
+// Result : Ok (for syntax)
+{
+    print(hello);
+}

@@ -1,0 +1,9 @@
+// test class declaration
+// result : OK
+class A{
+    
+}
+
+{
+    A a = new A();
+}

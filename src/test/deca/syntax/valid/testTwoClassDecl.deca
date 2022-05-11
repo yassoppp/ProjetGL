@@ -1,0 +1,10 @@
+// Declaring two classes in the same file
+// result : OK
+
+class A {
+    // The first class
+}
+
+class B {
+    // The second class
+}

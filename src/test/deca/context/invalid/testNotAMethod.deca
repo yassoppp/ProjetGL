@@ -1,0 +1,8 @@
+// Description : La méthode appelée n'est pas une méthode
+class A {
+    int b;
+}
+{
+    A a = new A();
+    a.b();
+}

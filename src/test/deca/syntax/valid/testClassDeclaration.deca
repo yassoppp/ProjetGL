@@ -1,0 +1,6 @@
+// Declare a class
+// Result : OK
+
+class A {
+    // This is a class 
+}

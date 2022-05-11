@@ -1,0 +1,13 @@
+//Description:
+//    Test pour le langage objet 
+//  Resultat
+//
+class Point {
+      int x;
+      int y;
+}
+
+class _3d {
+      Point p;
+      int z;
+}

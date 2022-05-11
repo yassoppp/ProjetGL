@@ -1,0 +1,14 @@
+// Bad call of a method
+// Result : Error
+//
+class C{
+    int x;
+    void sayHello(){
+        print("Hello");
+    }
+}
+
+{
+    C c = new C();
+    sayHello()
+}

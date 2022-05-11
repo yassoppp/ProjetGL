@@ -1,0 +1,7 @@
+// Invalid use of the asm body method
+// Result : Error
+// expecting {'extends', '{'}
+
+class Test{
+    asm("Hello");
+}

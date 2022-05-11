@@ -1,0 +1,9 @@
+// test the ulp method
+//
+#include "Math.decah"
+{
+    float f;
+    Math m = new Math();
+    f = m.ulp(200.3);
+    printx(f);
+}

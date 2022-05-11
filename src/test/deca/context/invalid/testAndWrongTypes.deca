@@ -1,0 +1,6 @@
+// Description : and avec mauvais type
+{
+    int x = 2;
+    boolean y = false;
+    boolean z = x && y;
+}

@@ -1,0 +1,18 @@
+// Description 
+//   Test sur le langage objet : t
+// Résultat :
+//
+class A {
+    int x;
+}
+
+class B {
+    A a;
+}
+
+{
+    int a = 10;
+    if (a > 0) {
+        print(a);
+    }
+}

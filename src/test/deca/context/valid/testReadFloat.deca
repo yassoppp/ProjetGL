@@ -1,0 +1,6 @@
+// Decription : Teste readFloat
+{
+    float x;
+    x = readFloat();
+    println(x);
+}

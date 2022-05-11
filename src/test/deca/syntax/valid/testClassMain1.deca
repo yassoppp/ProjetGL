@@ -1,0 +1,11 @@
+// test Classes with a Main
+// result : OK
+class Person{
+    protected int age;
+}
+
+{
+    Person p1 = new Person();
+    Person p1 = new Person();
+    p1.age = 40;
+}

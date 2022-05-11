@@ -1,0 +1,16 @@
+// description:
+//       Programme qui utilise while if 
+//
+//Résultat:
+//  43210
+//
+{
+    int x=5;
+    while(x>0){
+        if (x>0){
+            x=x+1;
+        }
+        x=x-2;
+        print(x);
+    }
+}

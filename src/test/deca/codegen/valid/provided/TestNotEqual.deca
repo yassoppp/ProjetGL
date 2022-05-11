@@ -1,0 +1,10 @@
+// Description
+//   Programme qui test not equal 
+// Resultat=
+//       
+{
+    int x = 5;
+    if (x!=1.0){
+        print("OK");
+    }
+}

@@ -1,0 +1,10 @@
+//  Description :
+//    test sur le langeg objet = class avec attributs de différents types 
+//
+//
+
+class M {
+      int x;
+      float y;
+      boolean z;
+}      

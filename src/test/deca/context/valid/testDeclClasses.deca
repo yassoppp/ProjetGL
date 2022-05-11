@@ -1,0 +1,12 @@
+class A {
+	int a;
+}
+class B {
+	float b;
+}
+class C extends A {
+	boolean c;
+}
+class D extends B {
+	int d;
+}

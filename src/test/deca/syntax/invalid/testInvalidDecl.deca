@@ -1,0 +1,5 @@
+// Declaring variables without separation
+// Result : Error
+{
+    int x y;
+}

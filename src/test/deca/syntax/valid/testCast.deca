@@ -1,0 +1,5 @@
+// test casting
+{
+int x;
+float y = (float)(x);
+}

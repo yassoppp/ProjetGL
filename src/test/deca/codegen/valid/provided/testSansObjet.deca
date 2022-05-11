@@ -1,0 +1,30 @@
+{
+	/*
+	 * Commentaire multiligne
+	 */
+
+	 // Variable sans initialisation
+	 int var;
+	 // Opérateur unaire -
+	 int a = -10;
+	 // Variable avec initialisation
+	 int x = 2;
+	 int b = x;
+	 float y = 2.3;
+	 boolean z = true;
+
+	 // Boucle while, opérateurs binaires && et <
+	 while (z && y < 100.0) {
+	 	// if else
+		if (x <= 0) {
+			// Opérateur unaire !
+			z = !z;
+		} else {
+			// ConvFloat, multiplication, modulo
+			y = y + 2.0;
+			x = x - 1;
+		}
+	}
+	// println
+	println("y =  " + y );
+}

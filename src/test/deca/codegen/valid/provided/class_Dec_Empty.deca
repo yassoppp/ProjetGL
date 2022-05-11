@@ -1,0 +1,8 @@
+// Descripton
+//   Test pour le compilateur objet : class vide  
+//  Resultat
+//
+class M {}
+{
+    print("hey");
+}

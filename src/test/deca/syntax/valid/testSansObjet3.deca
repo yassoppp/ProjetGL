@@ -1,0 +1,19 @@
+// test deca sans objet
+//
+
+{
+ int x = 3;
+ float y = (float)(x);
+ int z = x*x;
+ while( z < 200 ){
+   if (z < 30){
+     y = y + 1.5f;
+   } else if (z < 140){
+     y = y + 7.9F;
+   } else {
+    y = y*y;
+   }
+   z = z + 10;
+ }
+ print(y);
+}

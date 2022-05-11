@@ -1,0 +1,5 @@
+// print invalid characters
+// Result : Error
+{
+    println("tab \t");
+}

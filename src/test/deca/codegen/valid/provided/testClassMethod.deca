@@ -1,0 +1,15 @@
+// test a class with a method [without args]
+// Result : OK
+class A{
+    int x;
+
+    void increment(){
+        x = x + 1;
+    }
+}
+
+{
+    A a = new A();
+    a.increment();
+    println(a.x);
+}

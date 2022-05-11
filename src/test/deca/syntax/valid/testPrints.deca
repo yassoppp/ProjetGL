@@ -1,0 +1,6 @@
+// Test all print statements
+{
+  printlnx("Hello");
+  printx("Hello");
+  print("Hello");
+}

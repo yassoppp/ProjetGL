@@ -1,0 +1,10 @@
+// Description
+//   Programme qui test if
+// Resultat=
+//       
+{
+    int x = 5;
+    if (x == 5) {
+        print("OK");
+    }
+}

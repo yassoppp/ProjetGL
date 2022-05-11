@@ -1,0 +1,5 @@
+// Description : Double définition d'un champ de classe
+class A {
+    int a;
+    boolean a;
+}

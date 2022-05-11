@@ -1,0 +1,5 @@
+// Description : types incompatibles pour le cast
+{
+    int x;
+    boolean y = (boolean) (x);
+}

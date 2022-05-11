@@ -1,0 +1,10 @@
+// test Null
+// result : OK
+
+class A{
+    int x;
+}
+
+{
+    A a = null;
+}

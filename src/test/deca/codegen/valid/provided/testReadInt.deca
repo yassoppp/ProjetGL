@@ -1,0 +1,7 @@
+// test read int
+// Result : OK
+{
+    int x;
+    x = readInt();
+    print(x+1);
+}

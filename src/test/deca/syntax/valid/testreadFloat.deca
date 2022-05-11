@@ -1,0 +1,7 @@
+//test the method readFloat
+{
+ float y;
+ y = readFloat();
+ printlnx(y + 3);
+
+}

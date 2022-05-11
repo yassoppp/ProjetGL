@@ -1,0 +1,6 @@
+// test class without opening brace
+// Result : Error
+//
+class C 
+
+}

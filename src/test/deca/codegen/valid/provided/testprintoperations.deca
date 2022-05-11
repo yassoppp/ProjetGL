@@ -1,0 +1,13 @@
+//Description
+//    Programme qui utilise des print avec des operations 
+// Resultats
+//
+//
+//
+//
+{
+    print(7/2+1+0.6*6+(-3));
+    printx(7/2+1+0.6*6+(-3));
+    println(7/2+1+0.6*6+(-3));
+    printlnx(7/2+1+0.6*6+(-3));
+}

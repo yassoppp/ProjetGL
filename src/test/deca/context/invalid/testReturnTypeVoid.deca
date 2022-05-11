@@ -1,0 +1,9 @@
+// Description: Le type de retour de la méthode est void alors qu'on utilise return dans
+//              le corps de la méthode
+class A {
+    int a;
+    void increment(int number) {
+        a = a + number;
+        return a;
+    }
+}

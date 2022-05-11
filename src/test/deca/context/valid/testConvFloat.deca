@@ -1,0 +1,6 @@
+// Description : Teste la conversion en float d'une valeur int
+
+{
+    float x;
+    x = 3;
+}

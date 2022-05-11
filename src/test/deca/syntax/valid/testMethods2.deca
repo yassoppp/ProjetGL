@@ -1,0 +1,9 @@
+// test class with methods [with arguments]
+// Result : OK
+class A{
+    int x;
+
+    void increment(int b){
+        x = x + b;
+    }
+}

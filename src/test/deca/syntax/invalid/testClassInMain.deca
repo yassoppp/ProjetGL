@@ -1,0 +1,7 @@
+// Bad call of a class in the main method
+// Result : Error
+// mismatched input ';' expecting '('
+
+{
+    myClass a = new myClass;
+}

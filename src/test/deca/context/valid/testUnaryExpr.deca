@@ -1,0 +1,7 @@
+{
+    boolean a = true;
+    int b = 3;
+
+    boolean result1 = !a;
+    int result2 = -b;
+}

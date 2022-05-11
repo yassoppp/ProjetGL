@@ -1,0 +1,14 @@
+// Description
+//   Programme minimal qui utilise minus
+// Resultat=
+//      
+//
+// 
+{
+    int x = 5;
+    float y= -1.15;
+    x= -x;
+    println(x);
+    y= -y;
+    print(y);
+}

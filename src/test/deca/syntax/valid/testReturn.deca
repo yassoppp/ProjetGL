@@ -1,0 +1,8 @@
+// test return
+// result : OK
+{
+    int x = 67;
+    if (x > 2){
+        return x;
+    }
+}

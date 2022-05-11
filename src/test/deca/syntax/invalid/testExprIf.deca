@@ -1,0 +1,7 @@
+// test the syntax of if then else
+// Result : Error
+// parenthèse obligatoire
+{
+if false {
+  print("invalid");
+}

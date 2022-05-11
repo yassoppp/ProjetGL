@@ -1,0 +1,5 @@
+// test Bad String statement
+// Result : Error
+{
+    String s = 'Not valid';
+}

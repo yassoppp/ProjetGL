@@ -1,0 +1,9 @@
+// test the use of this
+// Result : OK
+class A {
+    int x;
+
+    int getX(){
+        return this.x;
+    }
+}

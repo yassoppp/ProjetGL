@@ -1,0 +1,4 @@
+// Description : La super classe donnée n'est pas une classe
+class B extends int {
+
+}

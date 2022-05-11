@@ -1,0 +1,5 @@
+// Description : print avec un mauvais argument
+{
+    boolean x;
+    println(x);
+}

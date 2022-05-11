@@ -1,0 +1,62 @@
+//Description 
+//     tests de Declaration de boolean 
+// Resultats=
+//
+//
+//
+//
+//
+//
+//
+{
+    boolean a = true;
+    boolean b = false;
+    boolean c = true && false;
+    boolean d = false || true || false;
+    boolean e = 1 < 2;
+    boolean f = 1 == 0;
+    boolean g = (1 > 0.0f) && (2.0e00 < 3.33e2);
+
+    if(a){
+        println("TRUE");
+    }
+    else{
+        println("FALSE");
+    }
+    if(b){
+        println("TRUE");
+    }
+    else{
+        println("FALSE");
+    }
+    if(c){
+        println("TRUE");
+    }
+    else{
+        println("FALSE");
+    }
+        if(d){
+        println("TRUE");
+    }
+    else{
+        println("FALSE");
+    }
+    if(e){
+        println("TRUE");
+    }
+    else{
+        println("FALSE");
+    }
+    if(f){
+        println("TRUE");
+    }
+    else{
+        println("FALSE");
+    }
+    if(g){
+        println("TRUE");
+    }
+    else{
+        println("FALSE");
+    }
+}

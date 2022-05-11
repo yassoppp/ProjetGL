@@ -1,0 +1,5 @@
+// test modulo
+// Result OK
+{
+ 2%1;
+}

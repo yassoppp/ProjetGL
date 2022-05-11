@@ -1,0 +1,9 @@
+// this is a test without opening {
+// Result : Error
+// every deca file should start with { and close with }
+
+
+int x = 5;
+float y = 4.0;
+print(x);
+}

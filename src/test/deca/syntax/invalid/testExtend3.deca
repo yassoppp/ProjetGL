@@ -1,0 +1,6 @@
+// test Invalid extend
+// Result : Error
+// Multiple extends
+class C extends D extends E{
+
+}

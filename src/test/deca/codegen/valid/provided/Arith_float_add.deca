@@ -1,0 +1,19 @@
+//Description
+//   Programme qui teste l'addition sur les flottants 
+//Résultat 
+//   
+//
+//
+//
+//
+{
+    println(123.456f + 7.89f);
+    println(0.12f + 0.345678f);
+    println(12345.6789f + 10.1e15);
+    println(0.6541632e-35 + 0.6546165e-34);
+    println(0.15f + 7);
+    //println(0.0f + 0.0f);
+    println( 1.2f + 2 + 3.95213549f + 10.1e2 + 5);
+    println(-3.1251f + (-5));
+    println(-60 + 254.365f);
+}

@@ -1,0 +1,14 @@
+// Description : La redéfintion de la méthode n'a pas la même signature que la
+//               méthode de la super classe
+class A {
+    int a;
+    void increment(int number) {
+        a = a + number;
+    }
+}
+
+class B extends A {
+    void increment() {
+        a = a + 1;
+    }
+}

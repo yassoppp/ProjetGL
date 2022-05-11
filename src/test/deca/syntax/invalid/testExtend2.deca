@@ -1,0 +1,6 @@
+// test Invalid extend
+// Result : Error
+// extends an invalid class name.
+class C extends #{
+
+}

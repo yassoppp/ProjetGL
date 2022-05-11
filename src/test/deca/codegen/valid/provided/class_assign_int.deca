@@ -1,0 +1,12 @@
+// Descripton
+//   Test pour le compilateur objet :acceder à un attribut entier public 
+//  Resultat
+//
+
+class M {
+    int x=1;
+}
+{
+    M n = new M();
+    print(n.x);
+}

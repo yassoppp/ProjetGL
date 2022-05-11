@@ -1,0 +1,5 @@
+// test declaring two variables at once;
+// Result OK;
+{
+    int x,y;
+}

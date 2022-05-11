@@ -1,0 +1,7 @@
+// test true and false with a print statement
+// Result : ok for syntax (Error for context)
+// print a boolean is invalid
+{
+ print(true);
+ print("Error");
+}

@@ -1,0 +1,15 @@
+// Description=
+//   Test sur le langage objet :double heritage 
+//
+//
+class A {
+     int x;
+     int y;
+}
+class B extends A {
+      int z = 3;
+      }
+
+class C extends B {
+      int w = 4;
+}

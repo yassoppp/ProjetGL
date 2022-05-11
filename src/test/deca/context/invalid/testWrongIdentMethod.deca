@@ -1,0 +1,7 @@
+// Description : Mauvais nom de méthode
+class A {
+    int b;
+    void int() {
+
+    }
+}

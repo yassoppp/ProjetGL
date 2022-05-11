@@ -1,0 +1,4 @@
+// Description : Identificateur non déclaré
+{
+    x = 2;
+}

@@ -1,0 +1,11 @@
+// Description:
+//   test tabulations
+//
+// Resultats:
+//    lignes 8 et 9 : Erreur
+//
+{
+ \n
+ \t
+
+}

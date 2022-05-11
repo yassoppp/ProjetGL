@@ -1,0 +1,11 @@
+// Description : Selection avec partie gauche qui n'est pas un attribut de la classe
+class A {
+    int x;
+    void b() {
+    }
+}
+{
+    int b;
+    A a = new A();
+    a.b = 2;
+}

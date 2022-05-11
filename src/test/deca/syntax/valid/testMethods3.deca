@@ -1,0 +1,16 @@
+// test class with methods
+// Result : OK
+class A{
+    int x;
+    boolean index = true;
+
+    int getX(){
+        return this.x;
+    }
+
+    void setIndex(){
+        if (this.x < 3){
+            this.index = false;
+        }
+    }
+}

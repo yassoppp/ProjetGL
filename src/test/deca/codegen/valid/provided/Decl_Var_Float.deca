@@ -1,0 +1,23 @@
+//Description 
+//     tests de Declaration de float
+// Resultats=
+//
+//
+//
+//
+//
+//
+{
+    float a = 0.0;
+    float b = 12345.0;
+    float c = -6.0f;
+    float d = b;
+    float e = d * 0 + 23.0f;
+    float f = 2.44000e+4;
+    println(a);
+    println(b);
+    println(c);
+    println(d);
+    println(e);
+    println(f);    
+}

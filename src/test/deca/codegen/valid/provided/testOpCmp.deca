@@ -1,0 +1,26 @@
+class A {
+    int fieldA;
+}
+class B {
+    int filedB;
+}
+{
+    int a = 2;
+    int b = 19;
+    boolean c = true;
+    boolean d = false;
+    A x = new A();
+    B y = new B();
+
+    boolean result1 = a < b;
+    boolean result2 = a <= b;
+    boolean result3 = a > b;
+    boolean result4 = a >= b;
+    boolean result5 = a == b;
+    boolean result6 = a != b;
+    boolean result7 = c == d;
+    boolean result8 = c != d;
+    boolean result9 = x == y;
+    boolean result10 = x != null;
+    boolean result11 = null == null;
+}

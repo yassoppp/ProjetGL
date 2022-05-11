@@ -1,0 +1,5 @@
+// test && Operator
+// Result OK;
+{
+ true && false;
+}

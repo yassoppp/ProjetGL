@@ -1,0 +1,11 @@
+// test The sin method in the Math Library
+// Calculate sin(543)
+#include "Math.decah"
+{
+
+    float f = 543;
+    float c;
+    Math m = new Math();
+    c = sin(f);
+    printlnx(c);
+}

@@ -1,0 +1,5 @@
+// test Hexadecimal format for floats
+// Result : Error
+{
+    float a = 0x12;
+}

@@ -1,0 +1,7 @@
+// test declaration of boolean types
+// Result : OK
+{
+    boolean index = true;
+    boolean t;
+    t = false;
+}

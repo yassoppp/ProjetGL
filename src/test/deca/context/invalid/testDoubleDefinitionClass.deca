@@ -1,0 +1,8 @@
+// Description : Double définition de classe
+class A {
+    int a;
+}
+
+class A {
+    int b;
+}

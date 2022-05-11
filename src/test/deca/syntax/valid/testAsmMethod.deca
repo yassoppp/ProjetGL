@@ -1,0 +1,8 @@
+// Test Asm Body
+// Result : OK
+
+class Test{
+    int x;
+
+    void sayHello()asm("Hi");
+}

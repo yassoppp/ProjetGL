@@ -1,0 +1,7 @@
+// test basic operations as boolean types
+
+{
+boolean b1 = (2 == 3);
+//boolean b2 = (1 == 45%44);
+ // boolean b3 = ((true == 4 <= 6) || (5 >= 7));
+}

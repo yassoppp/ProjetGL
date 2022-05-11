@@ -1,0 +1,11 @@
+// Declaring a class and create a instance of this class
+// Result : OK
+
+class A{
+    int x;
+}
+
+{
+    A a = new A();
+    a.x = 3;
+}

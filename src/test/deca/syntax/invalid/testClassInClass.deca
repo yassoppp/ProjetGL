@@ -1,0 +1,10 @@
+// define a class inside another class
+// Result : Error
+
+class First{
+    int x;
+
+    class Second{
+        int y;
+    }
+}

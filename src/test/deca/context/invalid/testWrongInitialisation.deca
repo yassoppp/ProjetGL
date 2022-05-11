@@ -1,0 +1,4 @@
+// Description : mauvaise valeur d'initialisation
+{
+    int x = true;
+}

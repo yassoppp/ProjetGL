@@ -1,0 +1,11 @@
+// test floats
+
+{
+  float t;
+  float a = 2.3;
+  float b = 5.6f;
+  float c = 8.0F;
+  float d = a + c;
+  float e = 0x4.3p1;
+  float f = 0X6.2P+2f;
+}

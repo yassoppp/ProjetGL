@@ -1,0 +1,7 @@
+// Description:
+//   Programme minimal qui test print
+//
+//
+{
+    print(0);
+}

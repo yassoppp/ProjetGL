@@ -1,0 +1,11 @@
+class A {
+	int x;
+	void modifx(int a) {
+		this.x = this.x + a;
+	}
+}
+{
+	A b = new A();
+	b.modifx(3);
+	print(b.x);
+}

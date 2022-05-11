@@ -1,0 +1,16 @@
+//  Description =
+//     Test  pour le langage objet = declaration class avec field non initialisé
+//  Resultat=
+//     Test valid 
+
+class M {
+	int x ;
+    boolean y;
+}
+
+{
+	M n = new M(); 
+	if ((n.x == 0) && (n.y)) {
+		println("Test valid ");
+	}
+}

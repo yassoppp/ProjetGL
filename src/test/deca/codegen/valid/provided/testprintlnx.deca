@@ -1,0 +1,10 @@
+//Description
+//    Programme qui utilise printlnx
+//
+// Resultat:
+//
+{
+    float x=10;
+    int a = 2;
+    printlnx(a,x);
+}

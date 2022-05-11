@@ -1,0 +1,11 @@
+//  Description= 
+//    test sur le langage objet = obtenir un attribut int 
+//  Resultat= 
+//    
+
+class M {
+      int x;
+      int getX() {
+      	  return this.x;
+	}
+}

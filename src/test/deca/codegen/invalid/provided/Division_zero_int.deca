@@ -1,0 +1,12 @@
+//Description:
+//  Programme qui releve l'erreur division par zero entier 
+//  Résultat
+//
+{
+    
+  int a = 1;
+  int y = 0;
+  
+  println(1 / 0);
+  println(a / y);
+}

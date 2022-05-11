@@ -1,0 +1,6 @@
+// Decription : Teste readInt
+{
+    int x;
+    x = readInt();
+    println(x);
+}

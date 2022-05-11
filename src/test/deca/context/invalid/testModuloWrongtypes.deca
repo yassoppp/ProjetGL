@@ -1,0 +1,6 @@
+// Description : opérateur modulo avec mauvais types
+{
+    int x;
+    boolean y;
+    int z = x % y;
+}

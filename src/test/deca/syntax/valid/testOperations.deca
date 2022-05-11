@@ -1,0 +1,7 @@
+// test basic operations.
+{
+ a = 2;
+ b = 5 - 4;
+ c = a*b;
+ d = 168%46;
+}

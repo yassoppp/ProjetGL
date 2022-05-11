@@ -1,0 +1,15 @@
+//
+//
+class A{
+    int x;
+
+    int increment(){
+        x = x + 1;
+    }
+}
+
+{
+    A a = new A();
+    a.x = 1;
+    a.increment();
+}

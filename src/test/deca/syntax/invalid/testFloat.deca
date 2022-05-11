@@ -1,0 +1,5 @@
+// invalid float number
+// overflow
+{
+    float f = 5.6E40;
+}

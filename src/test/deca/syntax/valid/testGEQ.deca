@@ -1,0 +1,6 @@
+// test Greater or equal
+// Result : OK
+{
+    int x = 3;
+    boolean b = (x >= 2);
+}

@@ -1,0 +1,5 @@
+// Description : Teste castCompatible
+{
+    int x = 1;
+    float y = (float) (x);
+}

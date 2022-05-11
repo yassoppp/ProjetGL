@@ -1,0 +1,7 @@
+// test the syntax of while
+// Result : Error
+// parenthèse obligatoire
+{
+while false {
+  print("invalid");
+}

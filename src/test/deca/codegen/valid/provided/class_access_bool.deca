@@ -1,0 +1,27 @@
+// Descripton
+//   Test pour le compilateur objet :acceder à un attribut boolean
+//  Resultat
+//      true
+//      false
+
+class M {
+    boolean x  ;
+    boolean y  ;
+}
+{
+    M a = new M();
+    a.x=true;
+    a.y=false;
+    if (a.x){
+        println("true");
+    }
+    else {
+        println("false");
+    }
+    if (a.y){
+        println("true");
+    }
+    else{
+        println("false");
+    }
+}

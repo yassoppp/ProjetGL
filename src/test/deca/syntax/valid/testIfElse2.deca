@@ -1,0 +1,13 @@
+// test if/else if/ else
+
+{
+ int x;
+ float y;
+ if (x > 34 && x < 97){
+  y = 0.5f;
+ }else if (x >= 97 && x  < 207 ){
+  y = 3.4F;
+ } else{
+  printlnx("Sorry Mate!");
+ }
+}

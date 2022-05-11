@@ -1,0 +1,6 @@
+// Test extend a class
+// Result : OK
+
+class A extends B{
+    // A extends the super class B
+}

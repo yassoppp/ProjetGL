@@ -1,0 +1,4 @@
+// Description : type void pour un identificateur
+{
+    void x;
+}

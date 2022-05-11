@@ -1,0 +1,11 @@
+// Description : Mauvaise signature de l'appel d'une méthode
+class A {
+    int a;
+    void increment(int number) {
+        a = a + number;
+    }
+}
+{
+    A a = new A();
+    a.increment();
+}

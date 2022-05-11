@@ -1,0 +1,7 @@
+// test invalid while statements
+// Result : Error
+{
+    while (1=2){
+        printx("Ok");
+    }
+}

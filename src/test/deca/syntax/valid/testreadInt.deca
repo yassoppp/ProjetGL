@@ -1,0 +1,9 @@
+// test readInt
+
+{
+  int x;
+  x = readInt();
+  print(x*x);
+
+
+}

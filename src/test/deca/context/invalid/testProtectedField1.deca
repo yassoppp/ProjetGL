@@ -1,0 +1,8 @@
+// Description : Accès à un champ protégé depuis le main
+class A {
+    protected int a;
+}
+{
+    A x = new A();
+    x.a = 2;
+}

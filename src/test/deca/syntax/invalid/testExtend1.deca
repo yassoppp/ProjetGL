@@ -1,0 +1,6 @@
+// test Invalid extend
+// Result : Error
+// Empty extends : missing IDENT at '{'
+class C extends {
+
+}

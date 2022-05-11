@@ -1,0 +1,6 @@
+// Description : Deux paramètres ayant le même nom dans une méthode
+class A {
+    int a;
+    void nomMethode(int b, float b) {
+    }
+}

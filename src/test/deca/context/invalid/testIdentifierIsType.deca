@@ -1,0 +1,4 @@
+// Description : Le nom d'un identificateur est un type prédifini
+{
+    int float = 2;
+}

@@ -1,0 +1,5 @@
+// this is not valid because ints should be less than 32bits.
+// overflow
+{
+	int a = 17179869184; // 2 power 34
+}

@@ -1,0 +1,8 @@
+//Description
+//    Programme qui utilise println avec convfloat 
+//
+// Resultat:
+//    4.20000e+00
+{
+    println(1.2+3);
+}

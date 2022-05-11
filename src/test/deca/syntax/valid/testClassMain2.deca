@@ -1,0 +1,15 @@
+// test class with a Main
+// Result : OK
+ class Person{
+    int age;
+ }
+
+ class Student extends Person{
+    float gpa;
+ }
+
+ {
+    Student s = new Student();
+    s.age = 20;
+    s.gpa = 3.6f;
+ }

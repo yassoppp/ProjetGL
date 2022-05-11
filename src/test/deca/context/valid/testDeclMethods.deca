@@ -1,0 +1,19 @@
+class A {
+	int a;
+	
+	void methode1() {
+		a = a + 1;
+	}
+	
+	int methode2(int number) {
+		a = a + number;
+	}
+	
+	boolean methode3(int number) {
+		boolean c = true;
+		if (a <= number) {
+			c = false;
+		}
+		return c;
+	}
+}

@@ -1,0 +1,4 @@
+// Desciption : Utilisation de this dans le main
+{
+    this.a = 2;
+}

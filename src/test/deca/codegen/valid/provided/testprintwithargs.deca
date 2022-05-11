@@ -1,0 +1,10 @@
+//Description
+//    Programme qui test print avec multi args 
+//
+// Resultat:
+//
+{
+    int a=3;
+    float x=1.2;
+    println("hey",a,x); 
+}

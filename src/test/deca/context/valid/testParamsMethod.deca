@@ -1,0 +1,10 @@
+class A {
+    float a;
+    void increment(float x) {
+        a = a + x;
+    }
+}
+{
+    A y = new A();
+    y.increment(2);
+}

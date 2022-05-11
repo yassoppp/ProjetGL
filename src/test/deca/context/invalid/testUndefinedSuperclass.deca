@@ -1,0 +1,3 @@
+// Description : La La super classe donnée est indéfini
+class B extends A {
+}

@@ -1,0 +1,11 @@
+// Description:
+//     programme qui utilise printx
+//
+//     Résultat:
+//
+
+{
+    int a = 2;
+    float n=1;
+    printx(a,n);
+}

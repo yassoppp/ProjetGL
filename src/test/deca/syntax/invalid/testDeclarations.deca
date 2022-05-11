@@ -1,0 +1,9 @@
+// test declaration of variables after an instruction.
+// Result : Error, all variables should be declared before the first instruction
+{
+int x = 2;
+int y ;
+printx("This is an instruction");
+float a = 2.0f;
+
+}

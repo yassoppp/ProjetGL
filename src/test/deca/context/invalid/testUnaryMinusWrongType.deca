@@ -1,0 +1,4 @@
+// Description : opérateur unaire - avec mauvais type
+{
+    int x = -true;
+}

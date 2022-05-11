@@ -1,0 +1,6 @@
+// name a class using an invalid name
+// Result : Error
+// number as a name
+class 42{
+
+}

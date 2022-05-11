@@ -1,0 +1,8 @@
+// test printing two variables.
+// Result : Ok
+//
+{
+    int x = 9;
+    float y = 2.0f;
+    print(x,y);
+}

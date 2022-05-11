@@ -1,0 +1,12 @@
+//Description:
+//  Programme qui releve l'erreur modulo par zero 
+//  Résultat
+//
+{
+  
+  int x = 15;
+  int y = 0;
+  
+  println(15 % 0);
+  println(x % y);
+}

@@ -1,0 +1,23 @@
+// test the square root method in the Math Library
+// sqrt(2)
+// output value : 1.41421
+// expected value : 1.4142135
+// Result : OK
+
+{
+    float error = 0.000001;
+    float start = 2;
+    float newstart = 0;
+    float difference = 100.3;
+    while (difference > error){
+        newstart = start - (start*start - 2)/(2*start);
+        difference = newstart - start;
+        if (difference < 0){
+            difference = -difference;
+        }
+        start = newstart;
+    }
+
+    printx(start);
+
+}

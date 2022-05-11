@@ -1,0 +1,10 @@
+// declaration of a class with attributes
+// result : OK
+class A{
+    int x;
+}
+
+{
+    A a = new A();
+    print(a.x);
+}

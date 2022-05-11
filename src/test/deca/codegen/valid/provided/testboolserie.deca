@@ -1,0 +1,18 @@
+// Description
+//   Programme qui utilise multiple test if with operations bool  
+//
+//   resultat=
+//
+{
+        boolean a=false;
+        boolean b = true;
+        if (((a || b) || (b && a)) || a) {
+        print("good");
+        } 
+        if((1>0) && a && (5 == 5.0f ) && (1 !=0)){
+            print("ok");
+        }
+        else {
+        print("bad");
+        }
+}

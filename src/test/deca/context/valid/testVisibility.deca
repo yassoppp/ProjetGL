@@ -1,0 +1,5 @@
+class A {
+    protected int x;
+    protected float y;
+    boolean b = true;
+}

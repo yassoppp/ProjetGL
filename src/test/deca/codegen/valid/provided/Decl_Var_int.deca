@@ -1,0 +1,14 @@
+//Description 
+//     tests de Declaration de int
+// Resultats=
+//
+//
+//
+{
+    int a = 1;
+    int b = 12345;
+    int c = a*b + 6*0 - 54321;
+    println(a);
+    println(b);
+    println(c);
+}

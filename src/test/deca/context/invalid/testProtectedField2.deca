@@ -1,0 +1,11 @@
+// Description : Accès à un champ protégé depuis une instance de classe qui n'est
+//              pas une sous-classe de la classe courante (condition 1 règle 3.36).
+class A {
+    protected int a;
+}
+class B extends A {
+    int b;
+    int geta(A x) {
+        return x.a;
+    }
+}

@@ -1,0 +1,7 @@
+// Description : type void pour un paramètre de méthode
+class A {
+    int a;
+    int increment(void number) {
+        a = a + number;
+    }
+}

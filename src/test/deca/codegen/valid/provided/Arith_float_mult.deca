@@ -1,0 +1,18 @@
+//Description
+//   Programme qui teste la multiplication sur les flottants 
+//Résultat 
+//   
+//
+//
+//
+//
+{
+    println(15.24f * 5.23f);
+    println(14.23f * 0.0f);
+    println(0.12f * (-11.124f));
+    println(1.1684f * (-0.651654f));
+    println((-3.44f) * (-6.22f) );
+    println( 652424451.2354f *98132.785f);
+    println(7.23f *  11.0f * 123 * 1235.9f);
+    println(-5.6f * 12 * (-48.0f) * 111.78f);
+}

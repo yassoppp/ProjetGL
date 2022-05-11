@@ -1,0 +1,8 @@
+// test invalid if statements
+// Result : Error
+// no statement to check
+{
+    if (){
+        printx("Ok");
+    }
+}
